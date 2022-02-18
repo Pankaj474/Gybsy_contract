@@ -2,7 +2,6 @@
 
 Gybsy smart contracts and SDK.
 
-
 ## Development
 
 ### Versioning and Publishing Packages
